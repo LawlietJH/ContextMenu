@@ -14,7 +14,7 @@ ___Correr en consola con permisos de Administrador.___
 
 ### Modo de Uso:
     
-    python  TaskManager.py  [ -e | -d ] | [-h]
+    python  ContextMenu.py  [ -e | -d ] | [-h]
     
     
     -h, --help          Muestra el Modo de Uso.
